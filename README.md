@@ -39,8 +39,9 @@ I am an electrical and electronics engineer based in :kenya: Kenya doing softwar
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chege-dan&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chege-dan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Danson's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chege-dan&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Danson's GitHub stats](https://github-readme-stats.vercel.app/api?username=chege-dana&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chege-dan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **chege-dan/chege-dan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
