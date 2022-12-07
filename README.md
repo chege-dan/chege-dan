@@ -11,12 +11,17 @@
   <a href=https://www.linkedin.com/in/chege-dan/>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href = "mailto: danchege.w@gmail.com"/>
+  <img src="https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=Gmail&logoColor=red" alt="Gmail Badge"/>
+   </a>
 </div>
 </div>
 
 ---
 
 ### :man_technologist: About Me :
+I am an electrical and electronics engineer based in Kenya doing software development  
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-chege-dan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chege-dan/) :[![Gmail Badge](https://img.shields.io/badge/-Chege-Dan-red?style=flat&logo=Gmail&logoColor=red)](mailto: danchege.w@gmail.com)
 <!--
 **chege-dan/chege-dan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
