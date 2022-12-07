@@ -14,6 +14,9 @@
 </div>
 </div>
 
+---
+
+### :man_technologist: About Me :
 <!--
 **chege-dan/chege-dan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
