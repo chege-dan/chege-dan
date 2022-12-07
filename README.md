@@ -20,8 +20,21 @@
 ---
 
 ### :man_technologist: About Me :
-I am an electrical and electronics engineer based in Kenya doing software development  
+I am an electrical and electronics engineer based in :kenya: Kenya doing software development  
+
+- :gear:Hardware programming
+- :desktop_computer:software development
 - :mailbox:How to reach me: [![Linkedin](https://img.shields.io/badge/-chege-dan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chege-dan/) :[![Email](danchege.w@gmail.com)]
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="flutter" alt="flutter" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="arduino" alt="arduino" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
 <!--
 **chege-dan/chege-dan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
