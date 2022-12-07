@@ -21,7 +21,7 @@
 
 ### :man_technologist: About Me :
 I am an electrical and electronics engineer based in Kenya doing software development  
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-chege-dan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chege-dan/) :[![Gmail Badge](https://img.shields.io/badge/-Chege-Dan-red?style=flat&logo=Gmail&logoColor=red)](mailto: danchege.w@gmail.com)
+- :mailbox:How to reach me: [![https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge](https://img.shields.io/badge/-chege-dan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chege-dan/) :[![Gmail Badge](https://img.shields.io/badge/-Chege-Dan-red?style=flat&logo=Gmail&logoColor=red)](mailto: danchege.w@gmail.com)
 <!--
 **chege-dan/chege-dan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
