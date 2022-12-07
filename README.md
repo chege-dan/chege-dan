@@ -25,7 +25,7 @@ I am an electrical and electronics engineer based in :kenya: Kenya doing softwar
 
 - :gear:Hardware programming
 - :desktop_computer:software development
-- :mailbox:How to reach me: [![Linkedin](https://img.shields.io/badge/-chege-dan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chege-dan/) :[![Email](danchege.w@gmail.com)]
+- :mailbox:How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chege-dan/):[![Email](danchege.w@gmail.com)]
 
 ---
 
