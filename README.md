@@ -8,7 +8,7 @@
   </h1>
   <img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" width="200" height="200"/>
   <div id="badges">
-  <a href="[www.linkedin.com/in/Chege-Dan]">
+  <a href=https://www.linkedin.com/in/chege-dan/>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
